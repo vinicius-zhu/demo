@@ -1,5 +1,5 @@
 {
-  "marcacoes": [
+  "marcacao": [
     {	"id": 1, "numemp": "1",	"numcad": "12255",	"nomfun": "EPIFANIO JOSE",	"numcra": "17317149",	"datacc": "2018-09-05",	"hora": "08:51:00",	"horacc": "531",	"desrlg": "CATRACA VISITANTE - PORTARIA",	"desred": "Acesso Permitido",	"tipo": "ACESSO"	},
     {	"id": 2, "numemp": "1",	"numcad": "12255",	"nomfun": "EPIFANIO JOSE",	"numcra": "17317149",	"datacc": "2018-09-05",	"hora": "08:52:00",	"horacc": "532",	"desrlg": "REP DIGICON - COMPRAS",	"desred": "Acesso Permitido",	"tipo": "PONTO"	},
     {	"id": 3, "numemp": "1",	"numcad": "12255",	"nomfun": "EPIFANIO JOSE",	"numcra": "17317149",	"datacc": "2018-09-05",	"hora": "08:52:00",	"horacc": "533",	"desrlg": "ACESSO - ADMINISTRATIVO II",	"desred": "Acesso Permitido",	"tipo": "ACESSO"	},
